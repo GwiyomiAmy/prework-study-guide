@@ -6,15 +6,17 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
+    height: 180px;
     background-color: #420056;
     color: white;
+    text-shadow: 2px 2px 5px #9B79A5;
 }
 
 h1,
 h2 {
     text-align: center;
     font-family: Verdana, Arial, sans-serif;
+    padding-top: 20px;
 }
 
 img {
@@ -42,5 +44,7 @@ p {
     width: 80%;
     margin: 40px auto;
     background: #04B57F;
-    box-shadow: 5px 10px #000D30;
+    box-shadow: 7px 10px 7px #000D30;
+    padding-bottom: 20px;
+    padding-right: 10px;
 }

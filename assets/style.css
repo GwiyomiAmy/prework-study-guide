@@ -15,6 +15,8 @@ footer {
 h1,
 h2 {
     text-align: center;
+    // Adapted from: https://www.w3schools.com/css/css_font_websafe.asp
+    // font-family: Verdana, Arial, sans-serif;
     font-family: Verdana, Arial, sans-serif;
     padding-top: 20px;
 }
@@ -40,10 +42,14 @@ p {
 }
 
 .card {
+    // Adapted from: https://www.w3schools.com/css/css3_borders.asp
+    // border-radius: 25px;
     border-radius: 25px;
     width: 80%;
     margin: 40px auto;
     background: #04B57F;
+    // Adapted from: https://www.w3schools.com/css/css3_shadows_box.asp
+    // box-shadow: 7px 10px 7px #000D30;
     box-shadow: 7px 10px 7px #000D30;
     padding-bottom: 20px;
     padding-right: 10px;

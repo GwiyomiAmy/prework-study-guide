@@ -14,7 +14,9 @@ To use this Study Guide, simply review the notes found in each section. Alternat
 
 ## Credits
 
-N/A
+https://www.w3schools.com/css/css3_borders.asp
+https://www.w3schools.com/css/css_font_websafe.asp
+https://www.w3schools.com/css/css3_shadows_box.asp
 
 ## License
 

@@ -9,6 +9,8 @@ footer {
     height: 180px;
     background-color: #420056;
     color: white;
+    // https://www.w3schools.com/css/css3_shadows.asp
+    // text-shadow: 2px 2px 5px #9B79A5;
     text-shadow: 2px 2px 5px #9B79A5;
 }
 
